@@ -19,4 +19,4 @@ jobs:
           distribution: 'temurin'
 
       - name: Compile Java files
-        run: javac Useraccount.java userauthentication.java Message.java PROG5121POE.java
+        run: javac UserAccount.java UserAuthentication.java Message.java PROG5121POE.java
